@@ -1,6 +1,6 @@
 ---
-title: "Deepsha Menghani"
-image: images/linkedinpic.jpg
+title: "Jeff Dickinson"
+image: images/jeff_dickinson.jpg
 about:
   template: jolla
   image-width: 15em
@@ -8,22 +8,19 @@ about:
   links:
     - icon: mastodon
       text: Mastodon
-      href: https://fosstodon.org/@deepsha
+      href: https://mstdn.social/@Jeffreyad
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/bigdatadipper
+      href: https://twitter.com/jeffdickinson
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/deepshamenghani
+      href: https://linkedin.com/in/jeff-dickinson-0a988065
     - icon: github
       text: Github
-      href: https://github.com/deepshamenghani/
+      href: https://github.com/jeffreyad/
     - icon: envelope
       text: Contact me
-      href: mailto:menghani.deepsha@gmail.com
+      href: mailto:jeffdickinson@yahoo.com
 ---
 
-I am a Sr. Data Scientist at Microsoft. I have extensive background working with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.
-
-I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity. I am passionate about Diversity, Equity and Inclusion and lead actionable initiatives and conversations to drive inclusiveness within our organization.
-
+I am a Sr. Project Manager at Navitas Data Sciences. I have over 20 years in pharmaceutical/biotech industry. I'm currently working on open-source tools for Clinical Pharmacology analysis data.

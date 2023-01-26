@@ -2,17 +2,17 @@ project:
   type: website
 
 website:
-  title: "Deepsha Menghani"
+  title: "Jeff Dickinson"
   
-  favicon: "images/linkedinpic.jpg"
+  favicon: "images/jeff_dickinson.jpg"
   
   page-footer:
     center: |
-      <span class="container"><strong>[Contact Deepsha Menghani](mailto:menghani.deepsha@gmail.com){target="_blank"}</strong></span>
+      <span class="container"><strong>[Contact Jeff Dickinson](mailto:jeffdickinson@yahoo.com){target="_blank"}</strong></span>
     left: |
       <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
     right: |
-      <span class="container"><strong>[Github Repo](https://github.com/deepshamenghani/Portfolio_DeepshaM){target="_blank"}</strong></span>
+      <span class="container"><strong>[Github Repo](https://github.com/jeffreyad/Portfolio_Jeffreyad){target="_blank"}</strong></span>
     background: "#004E4F"
     
   navbar:
@@ -22,25 +22,21 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: tidytuesday.qmd
-        text: TidyTuesday
       - href: resume.qmd
         text: Resume
-      - href: waresume.qmd
-        text: Wednesday Addam's resume
-        
+
     right:
       - icon: mastodon
-        href: https://fosstodon.org/@deepsha
+        href: https://mstdn.social/@Jeffreyad
         aria-label: Quarto Mastodon
       - icon: twitter
-        href: https://twitter.com/bigdatadipper
+        href: https://twitter.com/jeffdickinson
         aria-label: Quarto Twitter
       - icon: linkedin
-        href: https://linkedin.com/in/deepshamenghani
+        href: https://linkedin.com/in/jeff-dickinson-0a988065
         aria-label: Quarto LinkedIn
       - icon: github
-        href: https://github.com/deepshamenghani/
+        href: https://github.com/jeffreyad/
         aria-label: Quarto Github
         
   search: 
